@@ -4,4 +4,4 @@
 💻 Tech Stack: Python | SQL | Tableau | Jupyter Notebook  
 🎯 Interests: Wearable Tech for Chronic Disaease  
 🏆 Certified NCLEX-RN | 3 Years of Clinical Nursing Experience  
-🔗 www.linkedin.com/in/ming-lun-lee-healthinformatics 
+🔗 [LinkedIn](www.linkedin.com/in/ming-lun-lee-healthinformatics)
