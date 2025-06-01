@@ -1,7 +1,7 @@
 ## 💫 About Me:
 🌟 Health Informatics Graduate | RN exploring Data Science<br>
-💻 Tech Stack: Python | SQL | Tableau | Jupyter Notebook<br>
-🎯 Interests: Wearable Tech for Chronic Disaease<br>
+💻 Tech Stack: Python | SQL | Tableau | R<br>
+🎯 Interests: Chronic Data Visualization, Disease Management, Clinical Decision Support, Health Behavior Change<br>
 🏆 Certified NCLEX-RN | 3 Years of Clinical Nursing Experience
 
 ## 🌐 Socials:
